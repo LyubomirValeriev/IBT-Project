@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+C:\Users\User PC\Desktop\DT-Project-master\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1678644982.index
+\ShopifyFrontend\src\main\java
+C:\Users\User PC\Desktop\DT-Project-master\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2107122836.index
+\ShopifyFrontend\src\main\java
